@@ -1,0 +1,8 @@
+2025/04/27-11:22:29.790 42a4 Recovering log #8
+2025/04/27-11:22:29.795 42a4 Delete type=0 #8
+2025/04/27-11:22:29.795 42a4 Delete type=3 #6
+2025/04/27-11:27:17.057 35c0 Level-0 table #14: started
+2025/04/27-11:27:17.057 35c0 Level-0 table #14: 0 bytes OK
+2025/04/27-11:27:17.059 35c0 Delete type=0 #12
+2025/04/27-11:27:17.064 35c0 Manual compaction at level-0 from '!scenes!xHcHPIqTuTiJUqEk' @ 72057594037927935 : 1 .. '!scenes.tokens.delta!xHcHPIqTuTiJUqEk.HtJW8BzPdg4EKsAh.gPAcPylBIp7HicRL' @ 0 : 0; will stop at (end)
+2025/04/27-11:27:17.064 35c0 Manual compaction at level-1 from '!scenes!xHcHPIqTuTiJUqEk' @ 72057594037927935 : 1 .. '!scenes.tokens.delta!xHcHPIqTuTiJUqEk.HtJW8BzPdg4EKsAh.gPAcPylBIp7HicRL' @ 0 : 0; will stop at (end)
