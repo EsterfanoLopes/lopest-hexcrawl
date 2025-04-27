@@ -1,0 +1,69 @@
+{
+  "id": "lopest-hexcrawl",
+  "title": "Lopest Hexcrawl",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "simplefog",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "better-hexagonal-tiles",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "map-coords",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Lopest",
+      "discord": "Lopest#9595",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "lopest-hexcrawl",
+      "label": "Hexcrawl",
+      "path": "packs/lopest-hexcrawl",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "lopest-generation-tables",
+      "label": "Generation Tables",
+      "path": "packs/lopest-generation-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "lopest-exploration-journal",
+      "label": "Exploration Journal",
+      "path": "packs/lopest-exploration-journal",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
