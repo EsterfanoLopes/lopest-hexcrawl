@@ -1,7 +1,7 @@
 {
   "id": "lopest-hexcrawl",
   "title": "Lopest Hexcrawl",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -68,5 +68,5 @@
   ],
   "url": "https://github.com/EsterfanoLopes/lopest-hexcrawl",
   "manifest": "https://github.com/EsterfanoLopes/lopest-hexcrawl/releases/download/latest/module.json",
-  "download": "https://github.com/EsterfanoLopes/lopest-hexcrawl/releases/download/v1.0.1/v1.0.1.zip"
+  "download": "https://github.com/EsterfanoLopes/lopest-hexcrawl/releases/download/v1.1.0/v1.1.0.zip"
 }
